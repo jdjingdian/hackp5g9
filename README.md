@@ -34,4 +34,4 @@
 * 优化NGP并将速度上限设置为130
 * 全部完成后使用小鹏汽车官方Github账号在本仓库发送issue
   
-![image](https://github.com/hackxpeng/hackp5g9/blob/main/699e33d95bb58866f263e99946870d0f.jpeg)
+![image](https://ghproxy.com/https://raw.githubusercontent.com/hackxpeng/hackp5g9/main/699e33d95bb58866f263e99946870d0f.jpeg)
