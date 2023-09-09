@@ -24,3 +24,8 @@
 * 打开`https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn`
 * 下载windows版本 并解压
 * 将所有文件放入c盘windows目录下的system32和syswow64 注意两个都要放
+
+# 致小鹏汽车：以下是关闭获取解锁码api的步骤
+* 将P7 P5的地图更新到高德地图最新版本（包括红绿灯倒计时，最新版高精地图，组队功能，普通道路沉浸导航，语音包等）
+* 将P7 P5的QQ音乐更新到最新版本
+* 承诺定期公布OTA进度（最低界限为每月公布）
